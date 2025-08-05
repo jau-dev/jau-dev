@@ -21,7 +21,7 @@ Pretendendo chegar a Desenvolvimento Full Stack em breve. Atualmente estou cursa
 </p>
 <p>
   <a href="https://www.instagram.com/jaudemelo"target="_blank"/>
-    <img  alt="instagram" width="22px" src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg">
+    <img aling="right" alt="instagram" width="22px" src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg">
   </a>
 </p>
 <br/>
