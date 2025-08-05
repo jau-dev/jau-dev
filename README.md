@@ -13,15 +13,15 @@ Fazendo minha transição de minha carreira para o Desenvolvimento Front-End e t
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android_studio_logo"/> <br>
 
 Pretendendo chegar a Desenvolvimento Full Stack em breve. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Cruzeiro do Sul.<br/>
-## Connect With me:
+## Connect With Me:
 <p>
   <a href="https://www.linkedin.com/in/jadsondemelo/"target="_blank"/>
-    <img aling="left" alt="LinkedIn" width="22px" src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png">
+    <img aling="left" alt="LinkedIn" width="33px" src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png">
   </a>
 </p>
 <p>
   <a href="https://www.instagram.com/jaudemelo"target="_blank"/>
-    <img aling="right" alt="instagram" width="22px" src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg">
+    <img aling="right" alt="instagram" width="33px" src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg">
   </a>
 </p>
 <br/>
