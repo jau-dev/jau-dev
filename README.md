@@ -16,12 +16,12 @@ Pretendendo chegar a Desenvolvimento Full Stack em breve. Atualmente estou cursa
 ## Connect With me:
 <p>
   <a href="https://www.linkedin.com/in/jadsondemelo/"target="_blank"/>
-    <img aling="left" alt="LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Flinkedin-icon-logo%2F&psig=AOvVaw1NXTwMNEr3pkT5fDG8rJGv&ust=1754499750394000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODEypST9I4DFQAAAAAdAAAAABAE">
+    <img aling="left" alt="LinkedIn" width="22px" src="https://www.citypng.com/public/uploads/preview/hd-vector-flat-linkedin-in-round-icon-png-701751695046390m4phkuuiqm.png">
   </a>
 </p>
 <p>
   <a href="https://www.instagram.com/jaudemelo"target="_blank"/>
-    <img aling="left" alt="instagram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Finstagram-logo%2F84834&psig=AOvVaw2MEIlHoceMvcSp73CcnhOb&ust=1754499711028000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJii6vSS9I4DFQAAAAAdAAAAABAE">
+    <img aling="left" alt="instagram" width="22px" src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg">
   </a>
 </p>
 <br/>
