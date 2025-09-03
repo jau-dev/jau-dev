@@ -1,5 +1,5 @@
 ## Hi there 👋
-Fazendo minha transição de minha carreira para o Desenvolvimento Front-End e tenho trabalhado como Freelancer por mais ou menos 1 ano. Minhas especialidades Incluem: e habilidades que vou desnvolver e me expercializar<br>
+Fazendo minha transição de minha carreira para o Desenvolvimento Front-End e tenho trabalhado como Freelancer por mais ou menos 1 ano. Minhas especialidades Incluem e habilidades que vou desnvolver e me expercializar:<br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react_logo"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="react_logo"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap_logo"/>
